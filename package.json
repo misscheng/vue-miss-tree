@@ -1,13 +1,13 @@
 {
-  "name": "vue-okr-tree",
-  "version": "1.0.10",
-  "main": "dist/vue-okr-tree.umd.min.js",
+  "name": "vue-miss-tree",
+  "version": "1.0.12",
+  "main": "dist/vue-miss-tree.umd.min.js",
   "scripts": {
     "dev": "vue-cli-service serve --open",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --mode production",
     "build:dev": "vue-cli-service build --mode development",
-    "build:lib": "vue-cli-service build --target lib  --name vue-okr-tree src/lib/index.js",
+    "build:lib": "vue-cli-service build --target lib  --name vue-miss-tree src/lib/index.js",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
@@ -32,15 +32,15 @@
   "keywords": ["vue-chart", "vue-tree", "org-tree", "chart", "tree", "org","okr","vue-ork-tree"],
   "license": "MIT",
   "author": {
-    "name": "前端小智",
-    "email": "449245884@qq.com",
-    "url": "https://github.com/qq449245884"
+    "name": "miss",
+    "email": "",
+    "url": "https://github.com/misscheng"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/qq449245884/vue-okr-tree"
+    "url": "https://github.com/misscheng/vue-miss-tree"
   },
   "bugs": {
-    "url": "https://github.com/qq449245884/vue-okr-tree/issues"
+    "url": "https://github.com/misscheng/vue-miss-tree/issues"
   }
 }
